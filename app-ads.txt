@@ -1,3 +1,6 @@
+#Amobear start
+facebook.com, 411776127249763, DIRECT, c3e20eee3f780d68
+#Amobear end
 google.com, pub-7117777112918698, DIRECT, f08c47fec0942fa0
 facebook.com, 158062881538703, DIRECT, c3e20eee3f780d68
 facebook.com, 1672941479948950, DIRECT, c3e20eee3f780d68
